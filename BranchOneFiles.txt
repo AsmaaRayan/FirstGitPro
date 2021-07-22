@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 blAblabla
-=======
 bla2bla2bla2
->>>>>>> MergeConBranch1
